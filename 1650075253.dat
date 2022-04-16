@@ -1,0 +1,49 @@
+Stack (1) 	Stack (2) 	Stack (3)
+
+Spades Q 	Hearts 3 	Hearts 4 	
+Diamonds J 	Clubs 4 	Spades K 	
+Diamonds K 	Clubs 8 	Diamonds A 	
+Clubs 7 	Clubs 3 	Spades 7 	
+Diamonds 8 	Hearts 6 	Diamonds 9 	
+Hearts 10 	Clubs 5 	Spades 4 	
+Hearts 7 	Clubs 9 	Diamonds 5 	
+
+Pick a card and memorize it!
+Press Enter to continue
+Stack (1) 	Stack (2) 	Stack (3)
+
+Spades Q 	Hearts 3 	Hearts 4 	
+Diamonds J 	Clubs 4 	Spades K 	
+Diamonds K 	Clubs 8 	Diamonds A 	
+Clubs 7 	Clubs 3 	Spades 7 	
+Diamonds 8 	Hearts 6 	Diamonds 9 	
+Hearts 10 	Clubs 5 	Spades 4 	
+Hearts 7 	Clubs 9 	Diamonds 5 	
+
+Enter the stack number where your card is.
+1
+Stack (1) 	Stack (2) 	Stack (3)
+
+Hearts 4 	Spades K 	Diamonds A 	
+Spades 7 	Diamonds 9 	Spades 4 	
+Diamonds 5 	Spades Q 	Diamonds J 	
+Diamonds K 	Clubs 7 	Diamonds 8 	
+Hearts 10 	Hearts 7 	Hearts 3 	
+Clubs 4 	Clubs 8 	Clubs 3 	
+Hearts 6 	Clubs 5 	Clubs 9 	
+
+Enter the stack number where your card is.
+2
+Stack (1) 	Stack (2) 	Stack (3)
+
+Diamonds A 	Spades 4 	Diamonds J 	
+Diamonds 8 	Hearts 3 	Clubs 3 	
+Clubs 9 	Spades K 	Diamonds 9 	
+Spades Q 	Clubs 7 	Hearts 7 	
+Clubs 8 	Clubs 5 	Hearts 4 	
+Spades 7 	Diamonds 5 	Diamonds K 	
+Hearts 10 	Clubs 4 	Hearts 6 	
+
+Enter the stack number where your card is.
+2
+Your card is: Clubs 7
